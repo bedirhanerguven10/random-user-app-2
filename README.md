@@ -13,5 +13,5 @@
 * Array map method
 * Events
 
-## were used.
+### were used.
 
